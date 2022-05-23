@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lenflix/static/js/main.b2429c0c.js",
+    "index.html": "/lenflix/index.html",
+    "main.b2429c0c.js.map": "/lenflix/static/js/main.b2429c0c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2429c0c.js"
+  ]
+}
